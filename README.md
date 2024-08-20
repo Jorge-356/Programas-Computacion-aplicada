@@ -5,7 +5,7 @@
 
 ## Actividad 1
 - Programa 1 
-- Programa 2g
+- Programa 2
 - Programa 3
 
 ## Actividad 2
