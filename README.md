@@ -4,10 +4,10 @@
 - Correo : murillo_1256@hotmail.com
 
 ## Actividad 1
-- Programa 1 
-- Programa 2
-- Programa 3
-
+- P01-hola-mundo 
+- P02-Area-circulo
+- P03-Area-triangulo
+- P04-Paga-trabajador
 ## Actividad 2
 - programa 4
 - programa 5 
