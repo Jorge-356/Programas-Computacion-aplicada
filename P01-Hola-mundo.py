@@ -12,4 +12,5 @@ print(f"{nombre}bienvenido a python, yu edad es {edad} tu peso es{peso}")
 
 print(type(nombre))
 print(type(edad))
+
 print(type(peso))
