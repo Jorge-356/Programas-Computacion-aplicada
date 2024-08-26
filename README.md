@@ -9,9 +9,10 @@
 - P03-Area-triangulo
 - P04-Paga-trabajador
 ## Actividad 3
-- programa 4
-- programa 5 
-- programa 6 
+- P05-promedio-de-calificaciones
+- P06-operaciones-matematicas 
+- P07-funciones-trigonometricas 
+- P08-dividir-en-cifras 
 ## Actividad 4
 - programa 7 
 - programa 8
