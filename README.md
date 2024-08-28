@@ -14,6 +14,16 @@
 - P07-funciones-trigonometricas 
 - P08-dividir-en-cifras 
 ## Actividad 4
-- programa 7 
-- programa 8
-- programa 9 
+- p15-verificar-numero
+- p16-verificar-suma
+- p17-convertir-temperaturas
+- p17-convertir-temperaturas-v2
+- p18-paga-trabajador-v2
+
+## Tarea # 1
+- p09-hipotenusa-triangulo
+- p10-tercer-angulo
+- p11-convertir-temperatura
+- p12-volumen-cilindro
+- p13-calculo-tiempo
+- p14-numero-suerte
