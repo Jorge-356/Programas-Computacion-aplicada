@@ -8,7 +8,7 @@ print (nombre)
 print(edad)
 print(peso)
       
-print(f"{nombre}bienvenido a python, yu edad es {edad} tu peso es{peso}")   
+print(f"{nombre}bienvenido a python, tu edad es {edad} tu peso es{peso}")   
 
 print(type(nombre))
 print(type(edad))
