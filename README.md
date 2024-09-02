@@ -19,7 +19,11 @@
 - p17-convertir-temperaturas
 - p17-convertir-temperaturas-v2
 - p18-paga-trabajador-v2
-
+## Actividad 5
+- p19-verifica-suma
+- p20-ley-de-newton
+- p21-aceptar-estudiante
+- p22-tipo-angulo
 ## Tarea # 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
