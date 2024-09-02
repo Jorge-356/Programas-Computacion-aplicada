@@ -31,3 +31,10 @@
 - p12-volumen-cilindro
 - p13-calculo-tiempo
 - p14-numero-suerte
+## Tarea # 2
+- p23-numeros-consecutivos
+- p24-numero-mayor
+- p25-dia-de-la-semana
+- p26-numeros-romanos
+- p27-calculo-de-notas
+- p28-aceptar-estudiante-v2
