@@ -1,9 +1,10 @@
-# Función para determinar si un estudiante es aceptado
+# Program que hace un filtro dde ingrso 
 # Entrada de datos
 nombre = input("Introduce el nombre del estudiante: ")
 sexo = input("Introduce el sexo del estudiante (H/M): ")
 edad = int(input("Introduce la edad del estudiante: "))
 calificaciones = list(map(int, input("Introduce las tres calificaciones separadas por espacio: ").split()))
+# Función para determinar si un estudiante es aceptado
 def evaluar_estudiante(nombre, sexo, edad, calificaciones):
     promedio = sum(calificaciones) / len(calificaciones)
     
