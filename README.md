@@ -31,6 +31,9 @@
 - p30-numeros-100-1 A
 - p30-numeros-100-1 B
 -  p30-numeros-100-1 C
+- p31-numeros-1-200-10
+- p32-numeros-suma-100
+- p33-conteo-numeros 
 ## Tarea # 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
