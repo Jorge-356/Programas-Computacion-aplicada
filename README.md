@@ -24,6 +24,13 @@
 - p20-ley-de-newton
 - p21-aceptar-estudiante
 - p22-tipo-angulo
+## Actividad 6
+- p29-numeros-1-100 A
+- p29-numeros-1-100 B
+- p29-numeros-1-100 C
+- p30-numeros-100-1 A
+- p30-numeros-100-1 B
+-  p30-numeros-100-1 C
 ## Tarea # 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
