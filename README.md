@@ -2,7 +2,8 @@
 
 - Nombre : Jorge Murillo Dominguez 
 - Correo : murillo_1256@hotmail.com
-
+## Actividad 1
+- Liga del reposiorio : https://github.com/Jorge-356/Programas-Computacion-aplicada
 ## Actividad 2
 - P01-hola-mundo 
 - P02-Area-circulo
