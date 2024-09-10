@@ -1,6 +1,6 @@
 # Programas en python de la materia de computacion aplicada 
 
-- Nombre : Jorge Murillo Dominguez 
+- Nombre del alumno: Jorge Murillo Dominguez 
 - Correo : murillo_1256@hotmail.com
 ## Actividad 1
 - Liga del reposiorio : https://github.com/Jorge-356/Programas-Computacion-aplicada
@@ -55,3 +55,10 @@
 - p26-numeros-romanos
 - p27-calculo-de-notas
 - p28-aceptar-estudiante-v2
+## Tarea # 3
+- p39-impares-ascendente
+- p40-pares-descendente
+- p41-promedio-suma
+- p42-suma-200
+- p43-conversion-temperaturas
+- p44-numero-mayor
