@@ -1,5 +1,5 @@
 # Primer examen parcial 
-#Programa que realiza lo siguente: 
+# Programa que realiza lo siguente: 
 # Tipo de usuario: [1] Alumno $100, [2] Trabajador $200, [3] Docente $500
 # Tipo de paquete: [1] Solo conferencias $600, [2] Con eventos sociales $800, [3] Con kit de acceso $900
 # Se debe calcular un subtotal de la venta sumando el precio del tipo de usuario más el precio de tipo de paquete,
