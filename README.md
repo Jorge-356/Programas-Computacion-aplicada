@@ -41,6 +41,7 @@
 -  p36-tabla-multiplicar
 -  p37-tabla-multiplicar-v2
 - p38-adivina-numero
+
 ## Tarea # 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
@@ -62,3 +63,5 @@
 - p42-suma-200
 - p43-conversion-temperaturas
 - p44-numero-mayor
+## Examenes parciales 
+- p45–primer-examen-parcial
