@@ -1,4 +1,4 @@
-# Imprimer los numeros imapres hasta N numero, ademas da la suma de estos
+# Imprimer los numeros imapares hasta N numero, ademas da la suma de estos
 
 while True:
     # Pedir al usuario un número entero positivo
