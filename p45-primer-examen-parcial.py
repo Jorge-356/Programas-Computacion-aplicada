@@ -28,13 +28,13 @@ while Opciones == 'Chivas_Rayadas_Del_Guadalajara':
     print("[1] Alumno $100")
     print("[2] Trabajador $200")
     print("[3] Docente $500")
-    tipo_usuario = int(input())
+    U = int(input())
     
-    if tipo_usuario == 1:
+    if U == 1:
         costo_usuario = 100
-    elif tipo_usuario == 2:
+    elif U == 2:
         costo_usuario = 200
-    elif tipo_usuario == 3:
+    elif U == 3:
         costo_usuario = 500
     else:
         print("Solo tengo programado 3 tipos de usuarios")
@@ -44,7 +44,7 @@ while Opciones == 'Chivas_Rayadas_Del_Guadalajara':
     print("[1] Solo conferencias $600")
     print("[2] Con eventos sociales $800")
     print("[3] Con kit de acceso $900")
-    tipo_paquete = int(input("Elige el tipo de paquete (1, 2, 3): "))
+    tipo_paquete = int(input())
 
  # Aqui se define el costo segun el paquete elegido 
     if tipo_paquete == 1:
@@ -65,12 +65,12 @@ while Opciones == 'Chivas_Rayadas_Del_Guadalajara':
     # Calcular el descuento
     descuento = 0
     if subtotal > 5000:
-        if tipo_usuario == 1:
-            descuento = subtotal * 0.20  # Alumno 20%
-        elif tipo_usuario == 2:
-            descuento = subtotal * 0.10  # Trabajador 10%
-        elif tipo_usuario == 3:
-            descuento = subtotal * 0.05  # Docente 5%
+        if U == 1:
+            descuento = subtotal * 0.20  #  20% Para el alumnado 
+        elif U == 2:
+            descuento = subtotal * 0.10  #  10% Para trabajador
+        elif U == 3:
+            descuento = subtotal * 0.05  #  5% Para docente
 
     # Calcular el total después del descuento
     total = subtotal - descuento
@@ -81,9 +81,8 @@ while Opciones == 'Chivas_Rayadas_Del_Guadalajara':
     print(f"Descuento: ${descuento:.2f}")
     print(f"Total a pagar: ${total:.2f}\n")
 
-    # Acumular el total si es que hat mas de una transaccion 
+    # Acumular el total si es que es mas de una transaccion 
     Venta_Final = Venta_Final + total
 
-    continuar = input("¿Deseas continuar? (s/n): ").lower()
+    Opciones = input("¿Deseas continuar? (s/n): ").lower()
 print(f"\nImporte total de la Venta: ${Venta_Final:.2f}")
-
