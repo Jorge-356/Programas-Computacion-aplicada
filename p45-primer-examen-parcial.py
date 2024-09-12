@@ -21,9 +21,9 @@ print('Sistema de inscripción Congreso de Sistemas')
 
 
 Venta_Final = 0 # Se inicia esta variable a 0 
-Opciones = 'Chivas_Rayadas_Del_Guadalajara'
+Opciones = 's'
  # Menu
-while Opciones == 'Chivas_Rayadas_Del_Guadalajara':
+while Opciones == 's':
     print("Tipo de usuario:")
     print("[1] Alumno $100")
     print("[2] Trabajador $200")
