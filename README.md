@@ -42,8 +42,12 @@
 -  p37-tabla-multiplicar-v2
 - p38-adivina-numero
 ## Actividad  8
-- p46-numeros-1-100  
-- p47-numeros-100-1  
+- p46-numeros-1-100 A
+- p46-numeros-1-100 B
+- p46-numeros-1-100 C  
+- p47-numeros-100-1 A
+- p47-numeros-100-1 B
+- p47-numeros-100-1 C 
 - p48-arriba-abajo
 - p49-suma-pares-impares
 - p50-suma-numeros
