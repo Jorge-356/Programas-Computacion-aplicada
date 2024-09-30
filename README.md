@@ -100,5 +100,12 @@
 - p61-secuencia-numeros-1
 - p62–secuencia-numeros-2
 - p63-secuencia-terminos-1
+## Tarea # 5
+- p74-procesar-notas
+- p75-lista-multiplica
+- p76-meses-dia-nombre
+- p77-lista-aleatorios-suma
+- p78-ciudades
+- p79-lista-impares
 ## Examenes parciales 
 - p45–primer-examen-parcial 
