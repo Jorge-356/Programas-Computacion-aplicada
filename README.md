@@ -72,7 +72,12 @@
 - p71-dia-paga
 - p72-nombres-edades
 - p73-listas-aleatorios
-
+## Actividad 12
+- p80-estudiante
+- p81-calificaciones
+- p82-nombres y edades
+- p83-conversion-medida
+- p84-conversion-moneda
 ## Tarea # 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
