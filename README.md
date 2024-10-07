@@ -79,7 +79,7 @@
 - p83-conversion-medida
 - p84-conversion-moneda
 ## Actividad 13
--  p85–procesar pizza
+- p85–procesar pizza
 - p86–lista-dic-auto
 - p87-lista-dic-estudiante
 - p88-cliente-productos
