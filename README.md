@@ -118,5 +118,12 @@
 - p77-lista-aleatorios-suma
 - p78-ciudades
 - p79-lista-impares
+## Tarea # 6
+- p90-crear-acceder-diccionario
+- p91-modificar-diccionario
+- p92-agregar-diccionario
+- p93-eliminar-diccionario
+- p94-procesar-diccionario
+- p95-contar-caracteres
 ## Examenes parciales 
 - p45–primer-examen-parcial 
