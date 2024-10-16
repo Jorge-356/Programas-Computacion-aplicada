@@ -133,3 +133,4 @@
 - p99-numeros
 ## Examenes parciales 
 - p45–primer-examen-parcial 
+- p100-segundo-examen-parcial
