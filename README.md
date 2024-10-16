@@ -84,6 +84,9 @@
 - p87-lista-dic-estudiante
 - p88-cliente-productos
 - p89-area-figuras
+## Actividad 14
+- p96–trabajando-conjuntos
+- p97-operaciones-conjuntos
 ## Tarea # 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
