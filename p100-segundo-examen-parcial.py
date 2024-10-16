@@ -97,3 +97,5 @@ print("Pasatiempos:", ', '.join(f"{p}/{c}" for p, c in pasatiempos_count.items()
 print(f"Edad -> suma: {suma_edades}, Promedio: {promedio_edades:.1f}")
 print(f"Sueldo -> suma: {suma_sueldos:.2f}, promedio: {promedio_sueldos:.2f}")
 print(f"{mayor_edad['Nombre']} de {mayor_edad['Edad']} es el mayor, {menor_edad['Nombre']} de {menor_edad['Edad']} es el menor.")
+
+#
