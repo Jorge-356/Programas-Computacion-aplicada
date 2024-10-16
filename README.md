@@ -128,6 +128,8 @@
 - p93-eliminar-diccionario
 - p94-procesar-diccionario
 - p95-contar-caracteres
-- 
+## Tarea # 7
+- p98-personas
+- p99-numeros
 ## Examenes parciales 
 - p45–primer-examen-parcial 
