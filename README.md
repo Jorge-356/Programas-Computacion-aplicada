@@ -87,6 +87,23 @@
 ## Actividad 14
 - p96–trabajando-conjuntos
 - p97-operaciones-conjuntos
+## Actividad 15
+- p101-funcion
+- p102-funcion-parametro
+- p103-funcion-parametros
+- p104-funcion-mas-parametros
+- p105-funcion-parametros-nombre
+- p106-funcion-parametros-por-defecto
+- p107-funcion-retorno
+- p108-tabla-multiplicar
+- p109-cuadro-caracter
+- p110-numero-mayor
+- p111-estacion-año
+- p112-temperatura
+- p113-suma-digitos
+- p114-factorial
+- p115-calificacion-letra
+- p116-suma-rango
 ## Tarea # 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
