@@ -160,13 +160,13 @@
 - p98-personas
 - p99-numeros
 ## Tarea # 8
-- 123-numero-menor
-- p124-dia-semana
-- p125-medidas-longitud
-- p126-suma-pares-impares
-- p127-suma-digitos-lista
-- p128-calcula-factoriales
-- p129-estadisticas-basicas
+- p127-numero-menor
+- p128-dia-semana
+- p129-medidas-longitud
+- p130-suma-pares-impares
+- p131-suma-digitos-lista
+- p132-calcula-factoriales
+- p133-estadisticas-basicas
 ## Examenes parciales 
 - p45–primer-examen-parcial 
 - p100-segundo-examen-parcial
