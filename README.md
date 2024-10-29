@@ -115,6 +115,11 @@
 - p124-funciones
 - p125-usa-funciones
 - p126-modulos-integrados
+## Activida  17
+- p134-empleado1
+- p135-empleado2
+- p136-circulo
+- p137-rectangulo
 ## Tarea # 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
