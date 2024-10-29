@@ -172,6 +172,8 @@
 - p131-suma-digitos-lista
 - p132-calcula-factoriales
 - p133-estadisticas-basicas
+## Tarea # 9
+- p138-articulo
 ## Examenes parciales 
 - p45–primer-examen-parcial 
 - p100-segundo-examen-parcial
