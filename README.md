@@ -120,6 +120,8 @@
 - p135-empleado2
 - p136-circulo
 - p137-rectangulo
+## Actividad 18
+- p139 - ventas
 ## Tarea # 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
